@@ -67,7 +67,7 @@
             <div class="row align-items-center">
               <div class="col-xl-3 col-lg-2">
                 <div class="logo">
-                  <a href="index.html">
+                  <a href="<?=ROOT?>">
                     <img src="<?=ROOT_ASSETS?>theme/img/logo.png" alt="">
                   </a>
                 </div>
@@ -90,7 +90,7 @@
                           <li><a href="<?=ROOT?>about">about</a></li>
                         </ul>
                       </li>
-                      <li><a href="<?=ROOT?>Doctors">Doctors</a></li>
+                      <li><a href="<?=ROOT?>doctors">Doctors</a></li>
                       <li><a href="<?=ROOT?>contact">Contact</a></li>
                     </ul>
                   </nav>
