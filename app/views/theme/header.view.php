@@ -78,7 +78,7 @@
                     <ul id="navigation">
                       <li><a class="active" href="<?=ROOT?>">Home</a></li>
                       <li><a href="<?=ROOT?>department">Department</a></li>
-                      <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                      <!-- <li><a href="#">blog <i class="ti-angle-down"></i></a>
                         <ul class="submenu">
                           <li><a href="<?=ROOT?>blog">blog</a></li>
                           <li><a href="<?=ROOT?>single-blog">single-blog</a></li>
@@ -89,9 +89,11 @@
                           <li><a href="elements">elements</a></li>
                           <li><a href="<?=ROOT?>about">about</a></li>
                         </ul>
-                      </li>
+                      </li> -->
                       <li><a href="<?=ROOT?>doctors">Doctors</a></li>
                       <li><a href="<?=ROOT?>contact">Contact</a></li>
+                      <li><a href="<?=ROOT?>register">Register</a></li>
+                      <li><a href="<?=ROOT?>login">Login</a></li>
                     </ul>
                   </nav>
                 </div>
